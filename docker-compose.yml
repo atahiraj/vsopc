@@ -1,0 +1,8 @@
+version : "2"
+services:
+  compilers:
+    image: cffs/compilers
+    volumes: 
+      - .:/home/vagrant/
+    ports:
+      - "33:22"
