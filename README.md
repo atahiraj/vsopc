@@ -1,7 +1,7 @@
 
 ## About this project
 
-This project implements a compiler for the VSOP language. VSOP is a very simple object oriented programming language created at the University of Liège. Specifications for the language may be found in `ressource/VSOP.pdf`.
+This project implements a compiler for the VSOP language. VSOP is a very simple object oriented programming language created at the University of Liège. Specifications for the language may be found in `resource/VSOP.pdf`.
 
 ## Getting started
 
@@ -20,7 +20,7 @@ Run
 $ ./vsopc <options> file
 ```
 
-See `ressource` folder fore more information on the compiler and the VSOP language.
+See `resource` folder for more information on the compiler and the VSOP language.
 
 ## License
 
